@@ -66,6 +66,10 @@ td {
 }
 
 td {
-    padding: 5px;
+    padding: 8px;
     font-weight: bold;
+}
+
+#message {
+    color: magenta
 }
